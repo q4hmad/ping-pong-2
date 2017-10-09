@@ -9,8 +9,6 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "bower-files": "^4.0.0",
-    "browser-sync": "^2.18.13",
     "browserify": "^14.4.0",
     "del": "^3.0.0",
     "gulp": "^3.9.1",
@@ -22,4 +20,8 @@
     "vinyl-source-stream": "^1.1.0"
   },
   "dependencies": {}
+}
+
+"scripts": {
+  "test": "jasmine"
 }
