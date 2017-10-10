@@ -1,9 +1,9 @@
 {
-  "name": "pingpong2",
+  "name": "pingpong",
   "description": "pingpong with bower",
-  "main": "index.js",
+  "main": "gulpfile.js",
   "license": "ISC",
-  "homepage": "https://github.com/sadie767/pingpong2",
+  "homepage": " ",
   "ignore": [
     "**/.*",
     "node_modules",

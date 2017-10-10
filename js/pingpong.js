@@ -1,5 +1,5 @@
-function Calculator(skinName) {
-  this.skin = skinName;
+function Calculator() {
+  
 }
 
 Calculator.prototype.pingPong = function(goal) {
